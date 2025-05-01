@@ -1,4 +1,4 @@
-package com.github.imagineforgee.predators;
+package com.github.imagineforgee.predators_reforged;
 
 import com.mojang.logging.LogUtils;
 import org.slf4j.Logger;

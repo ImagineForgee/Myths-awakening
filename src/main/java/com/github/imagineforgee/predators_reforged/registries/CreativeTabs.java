@@ -1,6 +1,6 @@
-package com.github.imagineforgee.predators.registries;
+package com.github.imagineforgee.predators_reforged.registries;
 
-import com.github.imagineforgee.predators.Constants;
+import com.github.imagineforgee.predators_reforged.Constants;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -18,7 +18,7 @@ public class CreativeTabs {
                     .title(Component.translatable("itemGroup.predators_reforged.predators_reforged_tab"))
                     .icon(() -> new ItemStack(Items.DIAMOND))
                     .displayItems((parameters, output) -> {
-                        com.github.imagineforgee.predators.registries.Items.ITEMS_TO_ADD.forEach(item -> output.accept(item.get()));
+                        com.github.imagineforgee.predators_reforged.registries.Items.ITEMS_TO_ADD.forEach(item -> output.accept(item.get()));
                     })
                     .build());
 }

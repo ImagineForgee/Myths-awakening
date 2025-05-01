@@ -1,7 +1,7 @@
-package com.github.imagineforgee.predators;
+package com.github.imagineforgee.predators_reforged;
 
-import com.github.imagineforgee.predators.registries.CreativeTabs;
-import com.github.imagineforgee.predators.registries.Items;
+import com.github.imagineforgee.predators_reforged.registries.CreativeTabs;
+import com.github.imagineforgee.predators_reforged.registries.Items;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;

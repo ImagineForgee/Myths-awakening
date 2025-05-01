@@ -1,9 +1,7 @@
-package com.github.imagineforgee.predators.registries;
+package com.github.imagineforgee.predators_reforged.registries;
 
-import com.github.imagineforgee.predators.Constants;
-import net.minecraft.world.item.BlockItem;
+import com.github.imagineforgee.predators_reforged.Constants;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;

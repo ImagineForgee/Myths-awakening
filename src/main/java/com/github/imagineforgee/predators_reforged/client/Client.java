@@ -1,6 +1,6 @@
-package com.github.imagineforgee.predators.client;
+package com.github.imagineforgee.predators_reforged.client;
 
-import com.github.imagineforgee.predators.Constants;
+import com.github.imagineforgee.predators_reforged.Constants;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
